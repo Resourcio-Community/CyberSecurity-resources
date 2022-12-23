@@ -6,7 +6,7 @@ Resources are added frequently! ⚡
 Enjoy!
 ---
 ## Table of Contents
-- [Books for Cyber Security](#books-for-Cyber-security) red_book:
+- [Books for Cyber Security](#books-for-Cyber-security):red_book:
 - [YouTube Channels for Cyber Security](#youtube-channels-for-cyber-security):incoming_envelope:
 - [Websites for Cyber Security](#websites-for-cyber-security):computer:
 - [Docs](#docs):page_with_curl:
