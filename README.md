@@ -9,8 +9,6 @@ Enjoy!
 - [Books for Cyber Security](#books-for-Cyber-security):blue_book:
 - [YouTube Channels for Cyber Security](#youtube-channels-for-cyber-security):incoming_envelope:
 - [Websites for Cyber Security](#websites-for-cyber-security):computer:
-- [Docs](#docs):page_with_curl:
-- [Others](#others):dash:
 - [Join our Community](#join-our-community):blush:
 ---
 ## Books for Cyber Security
