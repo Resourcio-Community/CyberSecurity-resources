@@ -1,5 +1,5 @@
 # CyberSecurity-resources
-This is an awesome project about Cyber Security resources. ⚡
+This is an awesome repo about Cyber Security resources. ⚡
 
 Resources are added frequently! ⚡
 
