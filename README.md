@@ -4,6 +4,9 @@ This is an awesome repo about Cyber Security resources. ⚡
 Resources are added frequently! ⚡
 
 Enjoy!
+
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/CyberSecurity-resources)
 ---
 ## Table of Contents
 - [Books for Cyber Security](#books-for-Cyber-security):blue_book:
